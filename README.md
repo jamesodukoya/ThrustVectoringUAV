@@ -172,7 +172,6 @@ Our preliminary results have been published in:
 This research is conducted at Tennessee Technological University in collaboration with:
 - Department of Mechanical Engineering
 - Subsonic Wind Tunnel Facility
-- Advanced Materials Laboratory
 
 ## Contact
 
