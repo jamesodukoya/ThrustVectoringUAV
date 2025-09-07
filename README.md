@@ -105,22 +105,8 @@ Where:
 - **Thrust Tolerance**: ±6.35 N
 - **Lift Tolerance**: ±5.71 N
 
-## Repository Contents
-
-```
-├── ThrustTestWorking_09_02.ino    # Main Arduino control code
-├── data/
-│   ├── Nozzle1_Data.pdf          # Sample thrust test results
-│   └── calibration/               # Load cell calibration files
-├── labview/                       # LabVIEW data acquisition code
-├── analysis/                      # Data processing scripts
-│   ├── polynomial_fit.m          # MATLAB analysis code
-│   └── performance_plots/         # 3D and 2D visualization
-├── docs/
-│   ├── system_integration.pdf     # Published research paper
-│   └── technical_specs/           # Hardware documentation
-└── README.md                      # This file
-```
+### 3D Data Plots
+![System Architecture Diagram](https://drive.google.com/uc?export=view&id=1AgR7YCCR0QjUpTYwM4Mm31rfAfhdDtMV)
 
 ## Usage Instructions
 
