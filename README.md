@@ -8,6 +8,10 @@ This repository contains the Arduino control code and data acquisition system fo
 
 This work is part of a larger research initiative to advance electric propulsion systems for next-generation aircraft. The project addresses the critical need for versatile, efficient thrust vectoring solutions in both military UAV applications (like enhanced MQ-1C Gray Eagle capabilities) and civilian eVTOL markets (similar to the Lilium Jet architecture).
 
+![Experimental Setup](./assets/experimental_setup.jpg)
+
+[Watch video demo](https://photos.app.goo.gl/ygxQjdd6iMZp2emF9)
+
 ## Current Project Status
 
 **Phase 2: Physical Analysis & Data Acquisition (December 2025 - January 2026)**
