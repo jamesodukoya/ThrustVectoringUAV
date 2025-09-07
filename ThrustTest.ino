@@ -11,7 +11,7 @@
  * External Data Input: Serial2 (Pin 17 - RX2)
  */
 
-// --- Global Variables ---
+// --- Global Variables (Allowed since it's a single-file application) ---
 String labviewData = "";
 // Holds the last COMPLETE data packet
 String labviewDataBuffer = ""; // Builds the incoming data packet
