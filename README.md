@@ -106,7 +106,9 @@ Where:
 - **Lift Tolerance**: ±5.71 N
 
 ### 3D Data Plots
-![System Architecture Diagram](https://drive.google.com/uc?export=view&id=1AgR7YCCR0QjUpTYwM4Mm31rfAfhdDtMV)
+![Thrust Response Surface](https://drive.google.com/uc?export=view&id=1AgR7YCCR0QjUpTYwM4Mm31rfAfhdDtMV)
+
+![Lift Response Surface](https://drive.google.com/uc?export=view&id=11qIdl8qrQbPfYHbabeEBuUQqh-I-WqlO)
 
 ## Usage Instructions
 
