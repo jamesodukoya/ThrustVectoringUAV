@@ -14,7 +14,7 @@ This work is part of a larger research initiative to advance electric propulsion
 
 ## Current Project Status
 
-**Phase 2: Physical Analysis & Data Acquisition (December 2025 - January 2026)**
+**Phase 2: Physical Analysis & Data Acquisition**
 
 We are currently in the propulsion system characterization phase, having completed:
 - ✅ System foundation and architecture design
