@@ -10,7 +10,7 @@ This work is part of a larger research initiative to advance electric propulsion
 
 ![Experimental Setup](./assets/experimental_setup.jpg)
 
-[Watch video demo](https://photos.app.goo.gl/ygxQjdd6iMZp2emF9)
+<a href="https://photos.app.goo.gl/ygxQjdd6iMZp2emF9" target="_blank" rel="noopener noreferrer">Watch video demo</a>
 
 ## Current Project Status
 
