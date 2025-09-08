@@ -76,7 +76,7 @@ Our baseline characterization has yielded significant performance data:
 - **Motor Speed Range**: 9,703 - 22,830 RPM
 
 ### Thrust Vectoring Capability
-Based on our nozzle characterization data:
+Based on our nozzle characterization data (**at 59% throttle**):
 - **Maximum Vectored Thrust**: 24.08 N (forward)
 - **Maximum Vectored Lift**: 28.58 N (upward)
 - **Operating Range**: Flap positions 1-99 degrees
@@ -92,16 +92,10 @@ Based on our nozzle characterization data:
 
 ### Polynomial Thrust Model
 
-Our thrust prediction model uses a second-order polynomial with exponential weighting:
+Our thrust and lift prediction models use a second-order polynomial with exponential weighting:
 
-```latex
-F_{thrust} = a_0 + a_1 \cdot P + a_2 \cdot P^2 + a_3 \cdot \theta + a_4 \cdot \theta^2 + a_5 \cdot P \cdot \theta
-```
+![trust lift model](./assets/thrust_lift_polynomial.png)
 
-Where:
-- F_{thrust} = Generated thrust force (N)
-- P = PWM pulse width (μs)
-- θ = Flap deflection angle (degrees)
 
 ### Data Filtering Results
 - **Total Data Points Collected**: 974
@@ -164,12 +158,13 @@ This baseline characterization enables our upcoming research phases:
 
 ## Publications
 
-Our preliminary results have been published in:
-- *"Design and System Integration for Experimental Testing of Electric Ducted Fans (EDFs)"* - AIAA Conference Proceedings
+Our preliminary results will be published in:
+- [*"Design and System Integration for Experimental Testing of Electric Ducted Fans (EDFs)"*](https://drive.google.com/file/d/1-BMYpy9USfVJLbHtchD44yNhOIPkeee3/view) - AIAA Conference Proceedings
 
 ## Collaboration
 
 This research is conducted at Tennessee Technological University in collaboration with:
+- Advanced Dynamics, Aerospace, and Mechatronics Systems Laboratory
 - Department of Mechanical Engineering
 - Subsonic Wind Tunnel Facility
 
